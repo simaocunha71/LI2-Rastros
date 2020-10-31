@@ -1,5 +1,8 @@
 ## Projeto de Laboratórios de Informática 2 (LI2) - Recriação do jogo "Rastros" - Ano letivo de 2019/2020 - Grupo 1 / PL4
 
+![Captura de ecrã de 2020-10-31 21-35-39](https://user-images.githubusercontent.com/61991247/97790654-3b741200-1bc2-11eb-9fdc-28eafc234d3e.png)
+
+
 # ELEMENTOS DO GRUPO:  
 - a78778 Adélio José Ferreira Fernandes
 - a93277 Tiago Luís Dias da Silva
